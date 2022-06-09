@@ -3,7 +3,7 @@
 //Variables y constantes(nunca cambian)
 //Ahora let es para variables
 
-const nombre = 'Ale';
+const nombre = 'Bastian';
 
 const apellido = 'Estrada Wevar'
 
